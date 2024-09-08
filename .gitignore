@@ -40,6 +40,9 @@ out/
 src/main/resources/application.yaml
 src/main/resources/application*.yaml
 
+### docker-compose.yml ###
+src/main/resources/docker-compose.yml
+
 
 ### VS Code ###
 .vscode/
